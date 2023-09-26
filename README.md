@@ -1,5 +1,5 @@
 # GDSCTask
-
+Both Light and Dark modes included
 Desktop(light mode)
 ![image](https://github.com/StoneTrooper66/GDSCTask/assets/88683784/c00406e4-a19f-4d32-bbdf-86099461a8e0)
 ![image](https://github.com/StoneTrooper66/GDSCTask/assets/88683784/d6cbea3e-e2c1-493b-9ad0-b110ad7b97a4)
